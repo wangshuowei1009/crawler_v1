@@ -1,5 +1,5 @@
 # 🇯🇵 **日本語 README **
-# 📘 Zhihu Crawler Assistant（知乎スクレイパー）
+# 📘 Zhihu Crawler Assistant（知乎スクレイピングツール）
 
 **PyQt5 + Selenium** で作られたデスクトップアプリです。  
 知乎（Zhihu）の質問ページから **すべての回答を取得** し、  
